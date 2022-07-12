@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #1c1c1c;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 12vh;
+  background: #ffffff;
+}
+
+img {
+  margin-right: 70px;
+  max-width: 100%;
+}
+
+ul {
+  display: flex;
+  gap: 40px;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #464646;
+}
+
+input {
+  margin-left: 70px;
+  text-align: right;
+  font-weight: bold;
+  outline: 0;
+  border: 0;
+}
+
