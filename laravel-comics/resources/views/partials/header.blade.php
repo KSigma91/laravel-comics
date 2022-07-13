@@ -4,72 +4,54 @@
     <nav>
         <ul>
             <li>
-             <a href="#">
-                 <h4>
-                     CHARACTERS
-                 </h4>
-             </a>
+                <a href="#">
+                    CHARACTERS
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>
-                     COMICS
-                 </h4>
-             </a>
+                <a href="#">
+                    COMICS
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>
-                     MOVIES
-                 </h4>
-             </a>
+                <a href="#">
+                    MOVIES
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>
-                     TV
-                 </h4>
-             </a>
+                <a href="#">
+                    TV
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>
-                     GAMES
-                 </h4>
-             </a>
+                <a href="#">
+                    GAMES
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>
-                     COLLECTIBLES
-                 </h4>
-             </a>
+                <a href="#">
+                    COLLECTIBLES
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>
-                     VIDEOS
-                 </h4>
-             </a>
+                <a href="#">
+                    VIDEOS
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>
-                     FANS
-                 </h4>
-             </a>
+                <a href="#">
+                    FANS
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>
-                     NEWS
-                 </h4>
-             </a>
+                <a href="#">
+                    NEWS
+                </a>
             </li>
             <li>
-             <a href="#">
-                 <h4>SHOP</h4>
-             </a>
+                <a href="#">
+                    SHOP
+                </a>
             </li>
          </ul>
     </nav>

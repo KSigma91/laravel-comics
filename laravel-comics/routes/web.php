@@ -18,4 +18,22 @@ Route::get('/', function () {
     return view('home', [
         'arrComics' => $arrComics,
     ]);
-})->name('home');
+});
+
+Route::get('/home/{id}', function ($id) {
+    $comic = 0;
+    foreach (config('comics') as $value) {
+        if ($value['id'] == $id) {
+            $comic = $value;
+            break;
+        }
+    }
+    if ($comic) {
+        return view('info', [
+            'pageTitle' => 'Card',
+            'card'      => $comic
+        ]);
+    } else {
+        abort(404);
+    }
+})->name('card');
